@@ -23,8 +23,5 @@
 📎 **[Κατεβάστε το Power BI αρχείο εδώ](LINK_TO_GITHUB_FILE)**  
 📎 **[Dataset CSV](LINK_TO_GITHUB_CSV)**  
 
----
 
-💡 **Θέλετε να συζητήσουμε για Data Analytics & Business Intelligence;**  
-📩 Επικοινωνήστε μαζί μου στο LinkedIn: [Προσθέστε το LinkedIn σας εδώ]  
 
